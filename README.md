@@ -13,4 +13,6 @@ No spaces after parameter
 - link:[url]..................... Show results which have links towards given website
 - cache:[erl].................. Show your browser's cache version of the given site
 - info:................... Show information about that webssite according to google
-- 
+-
+-
+-
